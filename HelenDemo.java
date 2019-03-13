@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class HelenDemo here.
+ * Write a description of class HelenDemo h
  *
  * @author (your name)
  * @version (a version number or a date)
@@ -15,7 +15,7 @@ public class HelenDemo
      */
     public HelenDemo()
     {
-        // initialise instance variables
+        // intialise instance variables
         x = 0;
     }
 
